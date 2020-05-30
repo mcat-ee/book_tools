@@ -1,0 +1,7 @@
+A python script to double up each page of a PDF for printing two page blocks at once.
+
+Requirements
+------------
+
+* PyPDF2
+* pathlib
